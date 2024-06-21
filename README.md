@@ -1,4 +1,6 @@
-👋 My name is Alexander Tibbets. I like to build things, tell stories, and help people.
+👋 
+
+My name is Alexander Tibbets. I like to build things, tell stories, and help people.
 
 [IFTTT](https://ifttt.com/) is an app I co-founded that lets you connect all the things in your life, on your terms.
 
